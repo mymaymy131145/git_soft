@@ -1,0 +1,15 @@
+{
+  "name": "workarapan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Work.js",
+  "scripts": {
+    "start": "nodemon work1.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
